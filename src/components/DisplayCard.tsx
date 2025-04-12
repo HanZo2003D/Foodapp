@@ -40,7 +40,6 @@ const DisplayCard = ({name}: Props) => {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: 'red',
     height: 140,
     width: 280,
     borderRadius: 16,
